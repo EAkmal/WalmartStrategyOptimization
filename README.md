@@ -1,25 +1,19 @@
 <div align="center">
 
-<!-- ░░ HEADER BANNER — split into two calls: title-only + subtitle-only to prevent clipping ░░ -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Erum%20Akmal%2C%20SHRM-CP&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55"
-  width="100%"
-  alt="Header banner reading Erum Akmal, SHRM-CP"
-/>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erum%20Akmal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SHRM-CP%20%7C%20People%20Analytics%20%7C%20HR%20Technology&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%" alt="Header banner — Erum Akmal, SHRM-CP"/>
 
-<!-- ░░ TYPING ANIMATION ░░ -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=People+Analytics+%7C+6%2B+Years+of+Impact;Workforce+Intelligence+%26+HRIS+Expert;MS+Business+Analytics+%E2%80%94+Univ.+of+Houston;Turning+Workforce+Data+Into+Decisions+%F0%9F%9A%80"
-  alt="Animated text cycling through: People Analytics 6+ Years of Impact, Workforce Intelligence and HRIS Expert, MS Business Analytics Univ of Houston, Turning Workforce Data Into Decisions"
-/>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analytics+&+Data+Management;People+Analytics+%7C+6%2B+Years+of+Impact;Workforce+Intelligence+%26+HRIS+Expert;MS+Business+Analytics+%E2%80%94+Univ.+of+Houston;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Animated text cycling through key roles and skills"/>
+</a>
 
-<br/><br/>
+<br/>
 
-<!-- ░░ PROFILE BADGES ░░ -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erum-akmalmbahrm)
 [![Email](https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erum.ak.khan@gmail.com)
 [![SHRM-CP](https://img.shields.io/badge/-SHRM--CP_Certified-005F73?style=for-the-badge&logoColor=white)](https://www.shrm.org/)
-[![Houston TX](https://img.shields.io/badge/📍_Greater_Houston_TX-1a1b27?style=for-the-badge)](https://en.wikipedia.org/wiki/Houston)
+[![Location](https://img.shields.io/badge/📍-Greater_Houston,_TX-1a1b27?style=for-the-badge)](https://en.wikipedia.org/wiki/Houston)
 [![Profile Views](https://komarev.com/ghpvc/?username=erum-akmal&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/erum-akmal)
 
 </div>
@@ -28,43 +22,61 @@
 
 ## 🌟 &nbsp;About Me
 
-<!-- FIX 1: Removed float-right GIF. All content is now full-width and center-anchored.      -->
-<!-- The YAML card carries the personality weight that the GIF was intended to provide.       -->
 
-```yaml
-name:          Erum Akmal, SHRM-CP
-location:      Greater Houston, TX
-education:
-  - MS Business Analytics (Data Analytics Track) — Univ. of Houston
-  - Certificate in Business Analytics             — Harvard Business School Online
-  - MBA, Human Resource Management                — NUST
-  - BBA (Hons), International Business            — NUST
-experience:    6+ years · People Analytics & HR Technology
-certifications:
-  - SHRM-CP
-  - Certified HR Business Partner
-  - Certified HR Generalist
-focus_areas:
-  - People Analytics & Workforce Intelligence
-  - HRIS Optimization & AI-Driven Automation
-  - Executive Dashboards & KPI Reporting
-  - Talent Acquisition & Workforce Planning
-currently:     Team Lead, Market Operations & Placements @ Nerdy  🚀
-open_to:       People Analytics | HR Technology | Workforce Strategy
-```
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🪪 &nbsp;Identity Card</h3>
+      <table>
+        <tr><td>🏷️ <strong>Name</strong></td><td>Erum Akmal, SHRM-CP</td></tr>
+        <tr><td>📍 <strong>Location</strong></td><td>Greater Houston, TX</td></tr>
+        <tr><td>🎓 <strong>Latest Degree</strong></td><td>MS Business Analytics — Univ. of Houston</td></tr>
+        <tr><td>💼 <strong>Currently</strong></td><td>Team Lead @ Nerdy 🚀</td></tr>
+        <tr><td>🌐 <strong>Experience</strong></td><td>6+ years · People Analytics &amp; HR Tech</td></tr>
+        <tr><td>📬 <strong>Open To</strong></td><td>People Analytics · HR Technology · Workforce Strategy</td></tr>
+      </table>
+      <br/>
+      <h3>📜 &nbsp;Certifications</h3>
+      <img src="https://img.shields.io/badge/✔_SHRM--CP-005F73?style=flat-square" alt="SHRM-CP Certified"/>
+      <img src="https://img.shields.io/badge/✔_HR_Business_Partner-0A3D62?style=flat-square" alt="Certified HR Business Partner"/>
+      <img src="https://img.shields.io/badge/✔_HR_Generalist-0077B6?style=flat-square" alt="Certified HR Generalist"/>
+      <img src="https://img.shields.io/badge/✔_HBS_Business_Analytics-A0001C?style=flat-square" alt="HBS Business Analytics Certificate"/>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎯 &nbsp;Focus Areas</h3>
+      <p><strong>📊 Data Science &amp; Analytics</strong><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/Statistical_Modelling-8B5CF6?style=flat-square" alt="Statistical Modelling"/>
+      <img src="https://img.shields.io/badge/Regression_%26_ANOVA-6D28D9?style=flat-square" alt="Regression and ANOVA"/>
+      <img src="https://img.shields.io/badge/Geospatial_Analysis-2C7AC3?style=flat-square" alt="Geospatial Analysis"/>
+      <img src="https://img.shields.io/badge/Adaline_%26_ML-0A3D62?style=flat-square" alt="Adaline and Machine Learning"/>
+      <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="SPSS"/></p>
+      <p><strong>🏢 People Analytics &amp; HR</strong><br/>
+      <img src="https://img.shields.io/badge/People_Analytics-005F73?style=flat-square" alt="People Analytics"/>
+      <img src="https://img.shields.io/badge/Workforce_Intelligence-0A3D62?style=flat-square" alt="Workforce Intelligence"/>
+      <img src="https://img.shields.io/badge/HRIS_Optimization-0077B6?style=flat-square" alt="HRIS Optimization"/>
+      <img src="https://img.shields.io/badge/AI_%26_Automation-8B5CF6?style=flat-square" alt="AI and Automation"/>
+      <img src="https://img.shields.io/badge/Executive_Dashboards-2ea043?style=flat-square" alt="Executive Dashboards"/>
+      <img src="https://img.shields.io/badge/KPI_Reporting-F2C811?style=flat-square&logoColor=black" alt="KPI Reporting"/>
+      <img src="https://img.shields.io/badge/Talent_Acquisition-E05C2E?style=flat-square" alt="Talent Acquisition"/>
+      <img src="https://img.shields.io/badge/Workforce_Planning-0A66C2?style=flat-square" alt="Workforce Planning"/></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎓 &nbsp;Education
 
-<!-- Standard markdown table — universal rendering across GitHub, mobile, and screen readers -->
-
 <div align="center">
 
-| | Degree | Institution | Key Focus |
-|:---:|:---|:---|:---|
-| 🎓 | **M.S. Business Analytics** *(Data Analytics Track)* | University of Houston | Regression · ANOVA · Geospatial · Power BI · ArcGIS · SQL |
-| 🏛️ | **Certificate in Business Analytics** | Harvard Business School Online | Executive Decision Analytics |
+| &nbsp; | Degree | Institution | Highlight |
+|:---:|---|---|---|
+| 🎓 | **M.S. Business Analytics** *(Data Analytics Track)* | University of Houston | Regression · ANOVA · Geospatial · PowerBI · ArcGIS · SQL |
+| 🏛️ | **Certificate in Business Analytics** | Harvard Business School Online | Executive Analytics |
 | 📘 | **MBA — Human Resource Management** | NUST | HR Strategy & Leadership |
 | 📗 | **BBA (Hons) — Intl. Business & Marketing** | NUST | Global Markets |
 
@@ -76,38 +88,27 @@ open_to:       People Analytics | HR Technology | Workforce Strategy
 
 <div align="center">
 
-**Analytics & Data Science**
+### 📊 Analytics & Data Science
+<img src="https://skillicons.dev/icons?i=python,r,mysql&theme=dark" height="45" alt="Python, R, MySQL icons"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS"/>
+<img src="https://img.shields.io/badge/Excel_(Advanced)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Advanced"/>
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql&theme=dark" height="45" alt="Python, R, and MySQL skill icons"/>
+### 📈 Visualization & Business Intelligence
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS"/>
 
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
+### 🏢 HR Tech & HRIS Platforms
+<img src="https://img.shields.io/badge/SAP_SuccessFactors-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP SuccessFactors"/>
+<img src="https://img.shields.io/badge/Workday-F6803A?style=for-the-badge&logo=workday&logoColor=white" alt="Workday"/>
+<img src="https://img.shields.io/badge/Oracle_HCM-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle HCM"/>
 <br/>
-
-**Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
-
-<br/>
-
-**HR Tech & HRIS**
-
-![SAP SuccessFactors](https://img.shields.io/badge/SAP_SuccessFactors-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Workday](https://img.shields.io/badge/Workday-F6803A?style=for-the-badge&logo=workday&logoColor=white)
-![Oracle HCM](https://img.shields.io/badge/Oracle_HCM-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![UKG Kronos](https://img.shields.io/badge/UKG_Kronos-00A1DE?style=for-the-badge&logoColor=white)
-![ADP](https://img.shields.io/badge/ADP-D9232E?style=for-the-badge&logoColor=white)
-
-<br/>
-
-**ATS & Recruiting**
-
-![Greenhouse](https://img.shields.io/badge/Greenhouse-3AB245?style=for-the-badge&logoColor=white)
-![HireVue](https://img.shields.io/badge/HireVue-0070C0?style=for-the-badge&logoColor=white)
-![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn_Recruiter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="https://img.shields.io/badge/UKG_Kronos-00A1DE?style=for-the-badge&logoColor=white" alt="UKG Kronos"/>
+<img src="https://img.shields.io/badge/ADP-D9232E?style=for-the-badge&logoColor=white" alt="ADP"/>
+<img src="https://img.shields.io/badge/Greenhouse_ATS-3AB245?style=for-the-badge&logoColor=white" alt="Greenhouse ATS"/>
+<img src="https://img.shields.io/badge/HireVue-0070C0?style=for-the-badge&logoColor=white" alt="HireVue"/>
+<img src="https://img.shields.io/badge/LinkedIn_Recruiter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Recruiter"/>
 
 </div>
 
@@ -115,43 +116,24 @@ open_to:       People Analytics | HR Technology | Workforce Strategy
 
 ## 📐 &nbsp;MS Analytics Coursework
 
-<!-- FIX 2: Replaced ASCII box-drawing characters with an HTML table.                        -->
-<!-- Box-drawing chars (╔══╗) are unreliable on mobile browsers and non-Unicode terminals.   -->
-
 <div align="center">
 
 <table>
-  <thead>
-    <tr>
-      <th>📐 Statistical Methods</th>
-      <th>🛠️ Tools & Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Regression Analysis</td>
-      <td>SQL & Database Management</td>
-    </tr>
-    <tr>
-      <td>Correlation Analysis</td>
-      <td>Microsoft Power BI</td>
-    </tr>
-    <tr>
-      <td>ANOVA</td>
-      <td>ArcGIS (Geospatial Analysis)</td>
-    </tr>
-    <tr>
-      <td>Adaline Model with Regularization</td>
-      <td>Excel — Advanced Analytics</td>
-    </tr>
-    <tr>
-      <td>Geospatial Analysis</td>
-      <td>Python · R · SPSS</td>
-    </tr>
-  </tbody>
+  <tr>
+    <th align="center" width="50%">
+      <img src="https://img.shields.io/badge/📐_Statistical_Methods-0A3D62?style=for-the-badge" alt="Statistical Methods"/>
+    </th>
+    <th align="center" width="50%">
+      <img src="https://img.shields.io/badge/🛠️_Tools_%26_Platforms-005F73?style=for-the-badge" alt="Tools and Platforms"/>
+    </th>
+  </tr>
+  <tr><td align="center">🔹 Regression Analysis</td><td align="center">🔸 SQL &amp; Database Management</td></tr>
+  <tr><td align="center">🔹 Correlation Analysis</td><td align="center">🔸 Microsoft Power BI</td></tr>
+  <tr><td align="center">🔹 ANOVA</td><td align="center">🔸 ArcGIS — Geospatial Analysis</td></tr>
+  <tr><td align="center">🔹 Adaline Model with Regularization</td><td align="center">🔸 Excel — Advanced Analytics</td></tr>
+  <tr><td align="center">🔹 Geospatial Analysis</td><td align="center">🔸 Python · R · SPSS</td></tr>
+  <tr><td colspan="2" align="center"><sub><i>M.S. Business Analytics (Data Analytics Track) · University of Houston</i></sub></td></tr>
 </table>
-
-*M.S. Business Analytics (Data Analytics Track) · University of Houston*
 
 </div>
 
@@ -159,67 +141,43 @@ open_to:       People Analytics | HR Technology | Workforce Strategy
 
 ## 💼 &nbsp;Career Timeline
 
-<!-- FIX 4: Replaced pseudo-monospace ASCII tree with an HTML table timeline.                -->
-<!-- Markdown code blocks do not guarantee monospace rendering on all GitHub themes/mobile.  -->
-
 <div align="center">
 
 <table>
   <tr>
-    <td align="right" width="120"><strong>2024 – Present</strong></td>
-    <td>🚀</td>
-    <td>
-      <strong>Team Lead, Market Operations & Placements</strong> · Nerdy<br/>
-      <sub>Power BI & Looker dashboards · 24% efficiency gain · Automated SQL/Zendesk/Excel workflows · KPI monitoring</sub>
-    </td>
+    <td align="center" nowrap><img src="https://img.shields.io/badge/2024_–_Present-2ea043?style=flat-square" alt="2024 to Present"/></td>
+    <td align="center">🚀</td>
+    <td><strong>Team Lead, Market Operations &amp; Placements</strong> &nbsp;·&nbsp; <em>Nerdy</em><br/><sub>Power BI &amp; Looker dashboards · 24% efficiency gain · Automated SQL / Zendesk / Excel workflows · Real-time KPI monitoring</sub></td>
   </tr>
   <tr>
-    <td align="right"><strong>Nov 2023 – Feb 2024</strong></td>
-    <td>🔍</td>
-    <td>
-      <strong>Sourcing Specialist</strong> · LHR Américas<br/>
-      <sub>Technical talent sourcing · Houston, TX</sub>
-    </td>
+    <td align="center" nowrap><img src="https://img.shields.io/badge/Nov_2023_–_Feb_2024-0077B6?style=flat-square" alt="Nov 2023 to Feb 2024"/></td>
+    <td align="center">🔍</td>
+    <td><strong>Sourcing Specialist</strong> &nbsp;·&nbsp; <em>LHR Américas</em><br/><sub>Technical talent sourcing · Houston, TX</sub></td>
   </tr>
   <tr>
-    <td align="right"><strong>Jun – Oct 2023</strong></td>
-    <td>🛢️</td>
-    <td>
-      <strong>Global Recruiter</strong> · Saudi Aramco<br/>
-      <sub>End-to-end global recruitment for world's largest energy company</sub>
-    </td>
+    <td align="center" nowrap><img src="https://img.shields.io/badge/Jun_–_Oct_2023-0A3D62?style=flat-square" alt="Jun to Oct 2023"/></td>
+    <td align="center">🛢️</td>
+    <td><strong>Global Recruiter</strong> &nbsp;·&nbsp; <em>Saudi Aramco</em><br/><sub>End-to-end global recruitment for the world's largest energy company</sub></td>
   </tr>
   <tr>
-    <td align="right"><strong>2022 – 2023</strong></td>
-    <td>📋</td>
-    <td>
-      <strong>Recruiter</strong> · CGL Recruiting<br/>
-      <sub>Boolean search · ATS pipeline management · Chemical, O&G, Manufacturing, Healthcare sectors</sub>
-    </td>
+    <td align="center" nowrap><img src="https://img.shields.io/badge/2022_–_2023-8B5CF6?style=flat-square" alt="2022 to 2023"/></td>
+    <td align="center">📋</td>
+    <td><strong>Recruiter</strong> &nbsp;·&nbsp; <em>CGL Recruiting</em><br/><sub>Boolean search · ATS pipeline management · Chemical, O&amp;G, Manufacturing, Healthcare sectors</sub></td>
   </tr>
   <tr>
-    <td align="right"><strong>2020 – 2022</strong></td>
-    <td>🏫</td>
-    <td>
-      <strong>Operations Coordinator</strong> · BHA-Houston<br/>
-      <sub>Full-cycle hiring · Onboarding · Payroll · MAP report analysis via pivot tables</sub>
-    </td>
+    <td align="center" nowrap><img src="https://img.shields.io/badge/2020_–_2022-E05C2E?style=flat-square" alt="2020 to 2022"/></td>
+    <td align="center">🏫</td>
+    <td><strong>Operations Coordinator</strong> &nbsp;·&nbsp; <em>BHA-Houston</em><br/><sub>Full-cycle hiring · Onboarding · Payroll · MAP report analysis via pivot tables</sub></td>
   </tr>
   <tr>
-    <td align="right"><strong>2019 – 2020</strong></td>
-    <td>📊</td>
-    <td>
-      <strong>HR Analyst (SWST)</strong> · Macy's<br/>
-      <sub>Oracle HCM · Workday · Kronos — multi-store workforce operations</sub>
-    </td>
+    <td align="center" nowrap><img src="https://img.shields.io/badge/2019_–_2020-F2C811?style=flat-square&labelColor=black" alt="2019 to 2020"/></td>
+    <td align="center">📊</td>
+    <td><strong>HR Analyst — SWST</strong> &nbsp;·&nbsp; <em>Macy's</em><br/><sub>Oracle HCM · Workday · Kronos — multi-store workforce operations &amp; scheduling</sub></td>
   </tr>
   <tr>
-    <td align="right"><strong>2013 – 2018</strong></td>
-    <td>🌍</td>
-    <td>
-      <strong>Sr. HR Generalist → HR Generalist</strong> · TDEA, Pakistan<br/>
-      <sub>30% leave cost reduction · Gender equity salary analysis · Built HRIS & Recruitment dashboards from ground up</sub>
-    </td>
+    <td align="center" nowrap><img src="https://img.shields.io/badge/2013_–_2018-A0001C?style=flat-square" alt="2013 to 2018"/></td>
+    <td align="center">🌍</td>
+    <td><strong>Sr. HR Generalist → HR Generalist</strong> &nbsp;·&nbsp; <em>TDEA, Pakistan</em><br/><sub>30% leave cost reduction · Gender equity salary analysis · Built HRIS &amp; Recruitment dashboards from ground up</sub></td>
   </tr>
 </table>
 
@@ -231,12 +189,18 @@ open_to:       People Analytics | HR Technology | Workforce Strategy
 
 <div align="center">
 
-![6+ Years](https://img.shields.io/badge/6%2B-Years_in_HR_Analytics-005F73?style=for-the-badge)
-![24% Efficiency](https://img.shields.io/badge/24%25-Team_Efficiency_Gain-2ea043?style=for-the-badge)
-![30% Cost](https://img.shields.io/badge/30%25-Leave_Cost_Reduction-e05c2e?style=for-the-badge)
-![5+ HRIS](https://img.shields.io/badge/5%2B-HRIS_Platforms_Mastered-0A66C2?style=for-the-badge)
-![Global](https://img.shields.io/badge/Global-Recruitment_Experience-8B5CF6?style=for-the-badge)
-![4 Certs](https://img.shields.io/badge/4-Certifications-F2C811?style=for-the-badge&logoColor=black)
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/6%2B-Years_in_HR_Analytics-005F73?style=for-the-badge" alt="6+ Years in HR Analytics"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/24%25-Team_Efficiency_Gain-2ea043?style=for-the-badge" alt="24% Team Efficiency Gain"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/30%25-Cost_Reduction_(Leave)-e05c2e?style=for-the-badge" alt="30% Leave Cost Reduction"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/5%2B-HRIS_Platforms_Mastered-0A66C2?style=for-the-badge" alt="5+ HRIS Platforms"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Global-Recruitment_Experience-8B5CF6?style=for-the-badge" alt="Global Recruitment Experience"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/4-Certifications-F2C811?style=for-the-badge&logoColor=black" alt="4 Certifications"/></td>
+  </tr>
+</table>
 
 </div>
 
@@ -246,16 +210,53 @@ open_to:       People Analytics | HR Technology | Workforce Strategy
 
 <div align="center">
 
-| Domain | Level | Key Applications |
-|:---|:---:|:---|
-| 🔬 People Analytics & Workforce Planning | `Expert` | Attrition modeling, hiring funnel analysis, DEI metrics |
-| 📊 Power BI / Looker Dashboards | `Expert` | Executive KPIs, real-time workforce visibility |
-| 🗄️ SQL & Database Management | `Advanced` | Workforce queries, HRIS data pipelines |
-| 🌍 Geospatial Analysis | `Proficient` | ArcGIS, location-based workforce reporting |
-| 🤖 AI & Automation in HR | `Expert` | Workflow automation, AI-assisted operations |
-| 📐 Statistical Modelling | `Advanced` | Regression, ANOVA, Correlation, Adaline |
-| 🧩 HRIS Configuration | `Expert` | SuccessFactors, Workday, Oracle HCM |
-| 🎯 Talent Acquisition | `Expert` | Boolean sourcing, full-cycle recruitment |
+<table>
+  <tr>
+    <th align="left">Domain</th>
+    <th align="center">Level</th>
+    <th align="left">Key Applications</th>
+  </tr>
+  <tr>
+    <td>🔬 People Analytics &amp; Workforce Planning</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expert-005F73?style=flat-square" alt="Expert"/></td>
+    <td><sub>Attrition modeling, hiring funnel analysis, DEI metrics</sub></td>
+  </tr>
+  <tr>
+    <td>📊 Power BI / Looker Dashboards</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expert-005F73?style=flat-square" alt="Expert"/></td>
+    <td><sub>Executive KPIs, real-time workforce visibility</sub></td>
+  </tr>
+  <tr>
+    <td>🗄️ SQL &amp; Database Management</td>
+    <td align="center"><img src="https://img.shields.io/badge/Advanced-0077B6?style=flat-square" alt="Advanced"/></td>
+    <td><sub>Workforce queries, HRIS data pipelines</sub></td>
+  </tr>
+  <tr>
+    <td>🌍 Geospatial Analysis</td>
+    <td align="center"><img src="https://img.shields.io/badge/Proficient-8B5CF6?style=flat-square" alt="Proficient"/></td>
+    <td><sub>ArcGIS, location-based workforce reporting</sub></td>
+  </tr>
+  <tr>
+    <td>🤖 AI &amp; Automation in HR</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expert-005F73?style=flat-square" alt="Expert"/></td>
+    <td><sub>Workflow automation, AI-assisted operations</sub></td>
+  </tr>
+  <tr>
+    <td>📐 Statistical Modelling</td>
+    <td align="center"><img src="https://img.shields.io/badge/Advanced-0077B6?style=flat-square" alt="Advanced"/></td>
+    <td><sub>Regression, ANOVA, Correlation, Adaline</sub></td>
+  </tr>
+  <tr>
+    <td>🧩 HRIS Configuration</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expert-005F73?style=flat-square" alt="Expert"/></td>
+    <td><sub>SuccessFactors, Workday, Oracle HCM</sub></td>
+  </tr>
+  <tr>
+    <td>🎯 Talent Acquisition</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expert-005F73?style=flat-square" alt="Expert"/></td>
+    <td><sub>Boolean sourcing, full-cycle recruitment</sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -265,9 +266,9 @@ open_to:       People Analytics | HR Technology | Workforce Strategy
 
 <div align="center">
 
-| | Certification | Issuer |
-|:---:|:---|:---|
-| 🥇 | **SHRM-CP** — Certified Professional | Society for Human Resource Management |
+| Badge | Certification | Issuer |
+|:---:|---|---|
+| 🥇 | **SHRM-CP** — Certified Professional | Society for Human Resource Mgmt |
 | 🎖️ | **Certified HR Business Partner** | HRCI |
 | 🎖️ | **Certified HR Generalist** | — |
 | 🏛️ | **Business Analytics Certificate** | Harvard Business School Online |
@@ -293,7 +294,7 @@ open_to:       People Analytics | HR Technology | Workforce Strategy
 
 ### ✨ &nbsp;Let's build workforce intelligence that matters.
 
-*Open to opportunities in People Analytics, HR Technology, and Workforce Strategy.*
+*Open to opportunities in Data Science, People Analytics, HR Technology, and Workforce Strategy.*
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erum-akmalmbahrm)
 &nbsp;
@@ -301,12 +302,6 @@ open_to:       People Analytics | HR Technology | Workforce Strategy
 
 <br/>
 
-<!-- FIX 3: Subtitle moved out of capsule-render to prevent clipping on small screens.       -->
-<!-- Footer wave is title-free — purely decorative — so no text clipping risk remains.      -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
-  width="100%"
-  alt="Decorative footer wave"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Decorative footer wave"/>
 
 </div>
